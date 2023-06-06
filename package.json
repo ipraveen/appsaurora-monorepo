@@ -1,0 +1,8 @@
+{
+    "name": "@appsaurora-monorepo/source",
+    "private": true,
+    "workspaces": [
+        "ui-components",
+        "utils"
+    ]
+}
